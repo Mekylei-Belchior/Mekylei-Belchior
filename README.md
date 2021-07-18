@@ -21,7 +21,7 @@
      <code><img height="40" src="imagens/mysql.png"></code>
      <code><img height="40" src="imagens/mariaDB.png"></code>
      <code><img height="40" src="imagens/git.png"></code>
-     <code><img height="40" src="imagens/eclipse.jpg"></code>
+     <code><img height="40" src="imagens/eclipse.png"></code>
      <code><img height="40" src="imagens/excel-vba.png"></code>
      <code><img height="40" src="imagens/terminal.png"></code>
   </div>
