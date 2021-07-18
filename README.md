@@ -31,8 +31,8 @@
    
   <i>Find me on the web</i><br>
   
-   [![Linkedin Badge](https://img.shields.io/badge/-LINKEDIN-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekylei-belchior-89794889/)](https://www.linkedin.com/in/mekylei-belchior-89794889/) 
-  [![Instagram Badge](https://img.shields.io/badge/-INSTAGRAM-grey?style=flat&logo=instagram&logoColor=white&link=www.instagram.com/mekyleibelchior/)](https://www.instagram.com/mekyleibelchior/)  
+   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekylei-belchior-89794889/)](https://www.linkedin.com/in/mekylei-belchior-89794889/) 
+  [![Instagram Badge](https://img.shields.io/badge/-Instagram-yellow?style=flat&logo=instagram&logoColor=white&link=www.instagram.com/mekyleibelchior/)](https://www.instagram.com/mekyleibelchior/)  
 </div>
 
 <p align="center">
