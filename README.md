@@ -16,12 +16,15 @@
      <code><img height="40" src="imagens/python.png"></code>
      <code><img height="40" src="imagens/html.png"></code>
      <code><img height="40" src="imagens/css.png"></code>
+     <code><img height="40" src="imagens/javascript.png"></code>
      <code><img height="40" src="imagens/bootstrap.png"></code>
      <code><img height="40" src="imagens/spring-framework.png"></code>
      <code><img height="40" src="imagens/mysql.png"></code>
      <code><img height="40" src="imagens/mariaDB.png"></code>
      <code><img height="40" src="imagens/git.png"></code>
      <code><img height="40" src="imagens/eclipse.png"></code>
+     <code><img height="40" src="imagens/intellij.png"></code>
+     <code><img height="40" src="imagens/vs-code.png"></code>
      <code><img height="40" src="imagens/excel-vba.png"></code>
      <code><img height="40" src="imagens/terminal.png"></code>
   </div>
@@ -36,7 +39,7 @@
 </div>
 
 <p align="center">
-    Be free to starring and forking repositories you find good!
+    Feel free to starring and forking repositories you find good!
 </p>
   
 <div align="center">
