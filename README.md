@@ -3,8 +3,8 @@
 **Github Stats:**
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Mekylei-Belchior&show_icons=true&theme=darcula&line_height=40">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mekylei-Belchior&count_private=true&hide=shell&theme=darcula&line_height=30">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mekylei-Belchior&show_icons=true&theme=darcula&line_height=40">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mekylei-Belchior&count_private=true&hide=shell&theme=darcula&line_height=30">
 </p>
 
 **Languages and Tools:**
