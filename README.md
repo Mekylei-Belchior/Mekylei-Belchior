@@ -25,7 +25,6 @@
 ## About Me
 
 - Backend-oriented developer with experience in Java and Spring
-- Knowledge of frontend fundamentals with HTML, CSS, JavaScript, and TypeScript
 - Experience working with relational databases such as Postgresql
 - Interested in building clean, maintainable code and delivering software that creates real value
 
