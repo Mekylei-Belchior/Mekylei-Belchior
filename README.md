@@ -1,50 +1,92 @@
-# Hi there... I'm Mekylei!  
-
-**Github Stats:**
+<h1 align="center">Mekylei Belchior</h1>
 
 <p align="center">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mekylei-Belchior&show_icons=true&theme=darcula&line_height=40">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mekylei-Belchior&count_private=true&hide=shell&theme=darcula&line_height=30">
+  Backend Developer • Java • Spring Boot
 </p>
-
-**Languages and Tools:**
 
 <p align="center">
-
-  <div align="center">
-     <code><img height="40" src="imagens/java-original-wordmark.svg"></code>
-     <code><img height="40" src="imagens/python.png"></code>
-     <code><img height="40" src="imagens/html.png"></code>
-     <code><img height="40" src="imagens/css.png"></code>
-     <code><img height="40" src="imagens/javascript.png"></code>
-     <code><img height="40" src="imagens/typescript.png"></code>
-     <code><img height="40" src="imagens/bootstrap.png"></code>
-     <code><img height="40" src="imagens/spring-framework.png"></code>
-     <code><img height="40" src="imagens/mysql.png"></code>
-     <code><img height="40" src="imagens/mariaDB.png"></code>
-     <code><img height="40" src="imagens/git.png"></code>
-     <code><img height="40" src="imagens/eclipse.png"></code>
-     <code><img height="40" src="imagens/intellij.png"></code>
-     <code><img height="40" src="imagens/vs-code.png"></code>
-     <code><img height="40" src="imagens/excel-vba.png"></code>
-     <code><img height="40" src="imagens/terminal.png"></code>
-  </div>
+  I build practical software solutions with a focus on backend systems and database-driven applications.
 </p>
-
-<div style="display: inline_block" align="center">
-
-  <i>Find me on the web</i><br>
-  
-   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mekylei-belchior-89794889/)](https://www.linkedin.com/in/mekylei-belchior-89794889/) 
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-yellow?style=flat&logo=instagram&logoColor=white&link=www.instagram.com/mekyleibelchior/)](https://www.instagram.com/mekyleibelchior/)  
-</div>
 
 <p align="center">
-    Feel free to starring and forking repositories you find good!
+  <a href="https://www.linkedin.com/in/mekylei-belchior-89794889/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/mekyleibelchior/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://github.com/Mekylei-Belchior" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-222222?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-  
-<div align="center">
-  
-  ![ViewCount](https://views.whatilearened.today/views/github/Mekylei-Belchior/Mekylei-Belchior.svg) [![Thanks!](https://img.shields.io/badge/Thanks%20for%20visiting-!-1EAEDB.svg)](https://github.com/Mekylei-Belchior)
 
-</div>
+---
+
+## About Me
+
+- Backend-oriented developer with experience in Java and Spring
+- Knowledge of frontend fundamentals with HTML, CSS, JavaScript, and TypeScript
+- Experience working with relational databases such as Postgresql
+- Interested in building clean, maintainable code and delivering software that creates real value
+
+---
+
+## Tech Stack
+
+<p align="center">
+  <img height="42" src="imagens/java-original-wordmark.svg" alt="Java" />
+  <img height="42" src="imagens/python.png" alt="Python" />
+  <img height="42" src="imagens/html.png" alt="HTML" />
+  <img height="42" src="imagens/css.png" alt="CSS" />
+  <img height="42" src="imagens/javascript.png" alt="JavaScript" />
+  <img height="42" src="imagens/typescript.png" alt="TypeScript" />
+  <img height="42" src="imagens/bootstrap.png" alt="Bootstrap" />
+  <img height="42" src="imagens/spring-framework.png" alt="Spring Framework" />
+  <img height="42" src="imagens/mysql.png" alt="MySQL" />
+  <img height="42" src="imagens/mariaDB.png" alt="MariaDB" />
+  <img height="42" src="imagens/git.png" alt="Git" />
+  <img height="42" src="imagens/eclipse.png" alt="Eclipse" />
+  <img height="42" src="imagens/intellij.png" alt="IntelliJ IDEA" />
+  <img height="42" src="imagens/vs-code.png" alt="VS Code" />
+  <img height="42" src="imagens/excel-vba.png" alt="Excel VBA" />
+  <img height="42" src="imagens/terminal.png" alt="Terminal" />
+</p>
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mekylei-Belchior&show_icons=true&theme=darcula&hide_border=true"
+    alt="Mekylei's GitHub stats"
+  />
+  <img
+    height="165"
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mekylei-Belchior&layout=compact&hide=shell&theme=darcula&hide_border=true"
+    alt="Most used languages"
+  />
+</p>
+
+---
+
+## Highlights
+
+- Java and Spring for backend development
+- SQL databases and data modeling
+- Git-based workflow and development tools
+- Continuous learning and practical project building
+
+---
+
+<p align="center">
+  Feel free to explore, star, or fork any repository you find useful.
+</p>
+
+<p align="center">
+  <img
+    src="https://views.whatilearened.today/views/github/Mekylei-Belchior/Mekylei-Belchior.svg"
+    alt="Profile views"
+  />
+</p>
