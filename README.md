@@ -58,13 +58,8 @@
 <p align="center">
   <img
     height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Mekylei-Belchior&show_icons=true&theme=darcula&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=Mekylei-Belchior&show_icons=true&theme=darcula&hide_border=true"
     alt="Mekylei's GitHub stats"
-  />
-  <img
-    height="165"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Mekylei-Belchior&layout=compact&hide=shell&theme=darcula&hide_border=true"
-    alt="Most used languages"
   />
 </p>
 
