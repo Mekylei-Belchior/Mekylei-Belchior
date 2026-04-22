@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build practical software solutions with a focus on backend systems and database-driven applications.
+  I build practical software solutions with a focus on backend systems.
 </p>
 
 <p align="center">
